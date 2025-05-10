@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/warcoder/earthquake-dataset
+https://www.kaggle.com/datasets/varsharaj18/flood-dataset
+https://www.kaggle.com/datasets/noaa/hurricane-database/data
+https://www.kaggle.com/datasets/sreeragunandha/landslide-prediction-dataset

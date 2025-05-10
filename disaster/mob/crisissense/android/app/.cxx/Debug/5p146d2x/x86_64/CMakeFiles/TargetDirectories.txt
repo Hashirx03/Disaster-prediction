@@ -1,0 +1,2 @@
+C:/Users/hashi/Desktop/main project/disaster/mob/crisissense/android/app/.cxx/Debug/5p146d2x/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/hashi/Desktop/main project/disaster/mob/crisissense/android/app/.cxx/Debug/5p146d2x/x86_64/CMakeFiles/rebuild_cache.dir
